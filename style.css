@@ -1,1 +1,17 @@
-/* css style sheet */
+body {
+    background: #2e3033;
+}
+
+.sect {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    background: #425169;
+    box-shadow: white;
+}
+
+#my-name {
+    font-family: fantasy;
+    color: white;
+}
